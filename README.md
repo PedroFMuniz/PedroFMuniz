@@ -7,9 +7,9 @@
 
 ## Algumas coisas sobre mim
 
-* 📚 Estudante de Engenharia de Software na Universidade de Brasília (UnB).
+* 📚 Estudante de Engenharia Mecatrônica no centro universitário FACENS.
+* 📚 Ex-estudante de Engenharia de Software na Universidade de Brasília (UnB)(2020-2023).
 * 📜 Técnico em Desenvolvimento de sistemas pela ETEC Fernando Prestes.
-* 🦾 Atualmente em busca de oportunidades.
 * ✉️ Você pode me contatar por aqui:
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedromuniz43@outlook.com?subject=Olá%Pedro) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ferreira-muniz-b5a230186/)
@@ -21,8 +21,6 @@
 * Confira o projeto [schedula](https://github.com/fga-eps-mds/2022-2-Schedula-Doc), um software de gerenciamento de agendamentos produzido para a Polícia Civil do Goiás.
 * Confira o projeto [Remedioz](https://github.com/PedroFMuniz/Remedioz_MPOO), um software de organização de remédios realizado para a matéria de Orientação a Objetos.
 * Confira meu projeto de [TCC para a ETEC Fernando Prestes](https://github.com/MastroCoder/IreneApp), um software de gerenciamento de estoque para uma loja de roupas.
-* Confira meu projeto atual de [IHC](https://github.com/Interacao-Humano-Computador/2023.1-DetranGO), onde analisamos e documentamos melhorias para o site do Detran de Goiás.
-* Confira meu projeto atual de [Requisitos](https://github.com/Requisitos-de-Software/2023.1-Petz), onde analisamos e documentamos melhorias para o aplicativo móvel da Petz.
 
 ### Pessoais
 
